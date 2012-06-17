@@ -1,0 +1,125 @@
+msgid "@@curitem"
+msgstr "@@curitem"
+
+msgid "Videos"
+msgstr "Vidéos"
+
+msgid "All"
+msgstr "Tout"
+
+msgid "Musics"
+msgstr "Musiques"
+
+msgid "Photo"
+msgstr "Photo"
+
+msgid "Photos"
+msgstr "Photos"
+
+msgid "Setting"
+msgstr "Paramètre"
+
+msgid "Settings"
+msgstr "Paramètres"
+
+msgid "@@pagecounter"
+msgstr "@@pagecounter"
+
+msgid "@@subheadline"
+msgstr "@@subheadline"
+
+msgid "@@headline"
+msgstr "@@headline"
+
+msgid "@@info_filename"
+msgstr "@@info_filename"
+
+msgid "@@info_cur_time"
+msgstr "@@info_cur_time"
+
+msgid "@@info_duration"
+msgstr "@@info_duration"
+
+msgid "Filename"
+msgstr "Fichier"
+
+msgid "Codec"
+msgstr "Codec"
+
+msgid "Resolution"
+msgstr "Résolution"
+
+msgid "Bitrate"
+msgstr "Bitrate"
+
+msgid "Audio"
+msgstr "Audio"
+
+msgid "Information"
+msgstr "Information"
+
+msgid "Fullscreen"
+msgstr "Plein écran"
+
+msgid "Subtitle"
+msgstr "Sous-titre"
+
+msgid "Return to gui"
+msgstr "Retour au menu"
+
+msgid "Warning"
+msgstr "Attention"
+
+msgid "Not implemented yet"
+msgstr "Pas encore intégré"
+
+msgid "Ok"
+msgstr "Ok"
+
+msgid "Filename:"
+msgstr "Nom de fichier:"
+
+msgid "Codec:"
+msgstr "Codec:"
+
+msgid "Resolution:"
+msgstr "Résolution:"
+
+msgid "Bitrate:"
+msgstr "Bitrate:"
+
+msgid "Subtitles"
+msgstr "Sous-titre"
+
+msgid "Visibility"
+msgstr "Visibilité"
+
+msgid "Position"
+msgstr "Position"
+
+msgid "Delay"
+msgstr "Délai"
+
+msgid "Scale"
+msgstr "Taille"
+
+msgid "Go Back"
+msgstr "Retour"
+
+msgid "French"
+msgstr "Français"
+
+msgid "English"
+msgstr "Anglais"
+
+msgid "Return to Xell"
+msgstr "Retour à Xell"
+
+msgid "Shutdown"
+msgstr "Arrêt"
+
+msgid "Language"
+msgstr "Langue"
+
+msgid "Settings - Menu"
+msgstr "Menu Paramètre"

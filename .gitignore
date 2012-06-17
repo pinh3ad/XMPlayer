@@ -1,0 +1,13 @@
+*.a
+*.o
+*.d
+*.sys
+*.dll
+*.elf
+*.elf32
+ffmpeg_old
+codec-cfg
+nbproject
+.svn
+*.*~
+
